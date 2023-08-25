@@ -28,5 +28,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trex-krrish&show_icons=true&locale=en&layout=compact" alt="trex-krrish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trex-krrish&" alt="trex-krrish" /></p>
-[![Trex-Krrish's GitHub | Stats]
-(https://stats.quine.sh/Trex-Krrish/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Trex-Krrish)
+[![Trex-Krrish's GitHub | Stats](https://stats.quine.sh/Trex-Krrish/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Trex-Krrish)
